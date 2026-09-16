@@ -107,7 +107,7 @@ this numerical release. Source images are not needed to run the included checks.
 9. Archived values are retained independently of any manuscript display rounding.
    Use the numerical files, not rounded table cells, for further calculations.
 
-## Source data access
+## Source image data access
 
 - **PSW:** copyrighted source images are not redistributed. This release does
   not offer image access on request and does not include download locations.

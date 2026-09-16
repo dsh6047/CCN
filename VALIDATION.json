@@ -1,0 +1,31 @@
+{
+  "package_version": 1,
+  "prepared_date": "2026-09-16",
+  "status": "Prepared locally; not uploaded",
+  "numerical_comparisons": 643,
+  "numerical_comparisons_passed": 643,
+  "max_comparison_error": 4.440892098500626e-16,
+  "numeric_arrays_checked": 70,
+  "score_observations": {
+    "verification_aihub41_sscd.npz": 10250,
+    "verification_psw_sscd.npz": 75000,
+    "verification_manga109_sscd.npz": 24809,
+    "openset_psw.npz": 13750,
+    "verification_psw_dinov2.npz": 75000,
+    "figure5_scores.npz": 131750,
+    "openset_manga109.npz": 64180,
+    "openset_aihub.npz": 4250
+  },
+  "original_title_names_found": 0,
+  "local_paths_or_email_addresses_found": 0,
+  "image_files": 0,
+  "embeddings": 0,
+  "model_weights": 0,
+  "scope": "Post-scoring numerical reproduction; learned-head and transformation experiments use retained summaries.",
+  "runtime": {
+    "python": "3.9.6",
+    "numpy": "2.0.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.6.1"
+  }
+}

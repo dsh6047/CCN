@@ -1,0 +1,43 @@
+{
+  "AIHub": {
+    "K": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      41
+    ],
+    "theta": [
+      0.045,
+      0.024,
+      0.013,
+      0.007,
+      0.004,
+      -0.003,
+      -0.006,
+      -0.008
+    ]
+  },
+  "Manga109": {
+    "K": [
+      10,
+      20,
+      30,
+      50,
+      80,
+      109
+    ],
+    "theta": [
+      0.03,
+      0.013,
+      0.004,
+      -0.003,
+      -0.01,
+      -0.016
+    ]
+  },
+  "precision_note": "Inputs are the three-decimal points used in the final figure, not raw per-subset thresholds. K=2 is excluded."
+}

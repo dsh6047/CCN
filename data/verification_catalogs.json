@@ -1,0 +1,1066 @@
+{
+  "psw_sscd": {
+    "dataset": "PSW",
+    "score_columns": [
+      "absolute",
+      "ccn",
+      "asnorm_top2",
+      "asnorm_all"
+    ],
+    "titles": [
+      {
+        "title_id": "P001",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P002",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P003",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P004",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P005",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P006",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P007",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P008",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P009",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P010",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      }
+    ]
+  },
+  "psw_dinov2": {
+    "dataset": "PSW",
+    "score_columns": [
+      "absolute",
+      "ccn",
+      "asnorm_top2",
+      "asnorm_all"
+    ],
+    "titles": [
+      {
+        "title_id": "P001",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P002",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P003",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P004",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P005",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P006",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P007",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P008",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P009",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "P010",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      }
+    ]
+  },
+  "aihub41_sscd": {
+    "dataset": "AIHub",
+    "score_columns": [
+      "absolute",
+      "ccn",
+      "asnorm_top2",
+      "asnorm_all"
+    ],
+    "titles": [
+      {
+        "title_id": "A001",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A002",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A003",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A004",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A005",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A006",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A007",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A027",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A028",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A029",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A030",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A031",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A032",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A033",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A034",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A035",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A036",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A037",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A038",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A039",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A040",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A055",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A056",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A057",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A058",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A059",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A060",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A061",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A062",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A063",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A064",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A065",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A066",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A067",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A068",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A069",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A070",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A071",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A072",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A073",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      },
+      {
+        "title_id": "A074",
+        "records": 250,
+        "positive_records": 50,
+        "evaluated": true
+      }
+    ]
+  },
+  "manga109_sscd": {
+    "dataset": "Manga109",
+    "score_columns": [
+      "absolute",
+      "ccn",
+      "asnorm_top2",
+      "asnorm_all"
+    ],
+    "titles": [
+      {
+        "title_id": "M001",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M002",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M003",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M004",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M005",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M006",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M007",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M008",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M009",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M010",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M011",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M012",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M013",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M014",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M015",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M016",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M017",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M018",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M019",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M020",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M021",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M022",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M023",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M024",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M025",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M026",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M027",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M028",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M029",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M030",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M031",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M032",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M033",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M034",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M035",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M036",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M037",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M038",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M039",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M040",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M041",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M042",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M043",
+        "records": 228,
+        "positive_records": 28,
+        "evaluated": true
+      },
+      {
+        "title_id": "M044",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M045",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M046",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M047",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M048",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M049",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M050",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M051",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M052",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M053",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M054",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M055",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M056",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M057",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M058",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M059",
+        "records": 221,
+        "positive_records": 21,
+        "evaluated": true
+      },
+      {
+        "title_id": "M060",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M061",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M062",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M063",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M064",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M065",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M066",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M067",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M068",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M069",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M070",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M071",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M072",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M073",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M074",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M075",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M076",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M077",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M078",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M079",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M080",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M081",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M082",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M083",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M084",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M085",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M086",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M087",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M088",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M089",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M090",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M091",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M092",
+        "records": 210,
+        "positive_records": 10,
+        "evaluated": true
+      },
+      {
+        "title_id": "M093",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M094",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M095",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M096",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M097",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M098",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M099",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M100",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M101",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M102",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M103",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M104",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M105",
+        "records": 200,
+        "positive_records": 0,
+        "evaluated": false
+      },
+      {
+        "title_id": "M106",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M107",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M108",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      },
+      {
+        "title_id": "M109",
+        "records": 230,
+        "positive_records": 30,
+        "evaluated": true
+      }
+    ]
+  }
+}

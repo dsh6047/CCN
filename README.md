@@ -4,10 +4,8 @@ Version 1, prepared 16 September 2026.
 
 This is a minimal **post-scoring numerical reproducibility package** for the
 Catalog contrast normalization study prepared for submission to Multimedia Systems. The study
-is not yet published. Table and figure numbers follow manuscript v12 and Online
-Resource 1 v3. Later editorial changes to the manuscript do not change these
-underlying numerical records.
-
+is not yet published. Table and figure numbers follow manuscript and Online
+Resource 1. 
 The package contains anonymized scalar evaluation scores, labels, experimental
 partitions, retained run summaries, and a small analysis script. It does not
 contain images, image crops, embeddings, model weights, original image filenames,
